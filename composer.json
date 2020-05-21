@@ -1,0 +1,15 @@
+{
+    "name": "Link Lock For Next Cloud",
+    "description": "Placer un mot de passe sur un lien partagé",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Xavier Freymuth"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
